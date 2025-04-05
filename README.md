@@ -12,8 +12,10 @@
                       <path transform="translate(1951,128)" d="m0 0h15l8 4 5 7 3 10v8l-3 5-6 5-11 3-17 1-4-3-3-11v-10l3-10 4-6 2-2z" fill="#0670C7"></path>
                     </svg>
 </p>
-### RayanTec Software Group – Innovation, Expertise, and Digital Transformation
 
-RayanTec is a forward-thinking software company focused on two main areas: building proprietary digital platforms and delivering custom software solutions tailored to businesses and organizations. 
+<h1>RayanTec Software Group</h1>
+<h2>Innovation, Expertise, and Digital Transformation</h2>
+<p>RayanTec is a forward-thinking software company focused on two main areas: building proprietary digital platforms and delivering custom software solutions tailored to businesses and organizations. 
 With a skilled and dedicated team, we strive to develop smart, secure, and scalable software that aligns with real-world needs and industry standards. At RayanTec, we are committed to high-quality system architecture and design, innovation in both solutions and development processes, transparency and teamwork across all stages, timely delivery and reliable support, and continuous personal and organizational growth. 
 This repository includes a selection of projects and platforms developed by RayanTec using agile methodologies and best practices in software engineering. 
+</p>
