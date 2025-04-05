@@ -1,3 +1,6 @@
+<p align="center">
+   <img src="https://www.rayantecgroup.com/" alt="react" height="100" style="vertical-align:top; margin:4px">
+</p>
 ### RayanTec Software Group – Innovation, Expertise, and Digital Transformation
 
 RayanTec is a forward-thinking software company focused on two main areas: building proprietary digital platforms and delivering custom software solutions tailored to businesses and organizations. 
